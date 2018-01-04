@@ -4,7 +4,7 @@ Kinect skeletal frame based gesture classfication<br>
 
 
 [Click for Youtube video:<br>
-<img src="https://github.com/ElliotHYLee/AIDrone/blob/master/Images/simplePID.jpg" width="300" data-rotate="90">](https://www.youtube.com/watch?v=AIXz85A91rk)
+<img src="https://github.com/ElliotHYLee/AIDrone/blob/master/Images/simplePID.jpg" width="300">](https://www.youtube.com/watch?v=AIXz85A91rk)
 
 
 ## Prereq.s
