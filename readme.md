@@ -1,6 +1,6 @@
 # Gesture Classification using Kinect
 
-Kinect skeletal frame based gesture classfication<br>
+Deep learning for controller optimization.<br>
 
 
 [Click for Youtube video:<br>
