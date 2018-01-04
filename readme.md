@@ -32,7 +32,7 @@ python main.py
 
 ## Problem Setup
 
-Stage 1: Show NN can perform PID less than equal to the performance of PID controller.
+Stage 1: Show NN can perform PID less than equal to the performance of PID controller. <br>
 Stage 2: Show Q-learning can optimize NN structure. 
 
 
@@ -40,5 +40,5 @@ Stage 2: Show Q-learning can optimize NN structure.
 
 MSE = 1.6
 
-<img src="https://github.com/ElliotHYLee/AIDrone/blob/master/Images/Figure_1.png" width="300">
+<img src="https://github.com/ElliotHYLee/AIDrone/blob/master/Images/Figure_1.png" width="500">
 
