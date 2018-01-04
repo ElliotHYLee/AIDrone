@@ -1,4 +1,4 @@
-# Gesture Classification using Kinect
+# Controller Optimization Using Deep Learning
 
 Deep learning for controller optimization.<br>
 
