@@ -40,5 +40,8 @@ Stage 2: Show Q-learning can optimize NN structure.
 
 MSE = 1.6
 
-<img src="https://github.com/ElliotHYLee/AIDrone/blob/master/Images/Figure_1.png" width="500">
+Red: Actual PID output for ESC signal
+Blue: NN output for ESC signal
+
+<img src="https://github.com/ElliotHYLee/AIDrone/blob/master/Images/Figure_1.png" width="700">
 
